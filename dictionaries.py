@@ -18,7 +18,7 @@ match_attributes = [ 'hard', 'clay', 'grass', 'gender' ]
 
 misc_attributes = [ 'svr', 'pt_wr', 'gm_wr' ]
 
-misc_attributes_player = ['hnd', 'fr', 'fsr', 'swr', 'ssr'] 
+misc_attributes_player = ['+', 'hnd', 'fr', 'fsr', 'swr', 'ssr'] 
 
 labels = [ 'match_wr', 'match_win', 'set_wr', 'set_win' ]
 
